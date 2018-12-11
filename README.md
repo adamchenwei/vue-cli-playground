@@ -1,5 +1,7 @@
 # vue-cli-playground
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/vue-cli-playground.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
